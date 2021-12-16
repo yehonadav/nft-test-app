@@ -1,0 +1,35 @@
+{
+  "attributes": [
+    {
+      "trait_type": "piggy",
+      "value": true
+    },
+    {
+      "trait_type": "chomp",
+      "value": true
+    },
+    {
+      "trait_type": "level",
+      "value": 6
+    },
+    {
+      "trait_type": "power",
+      "value": 3
+    },
+    {
+      "trait_type": "speed",
+      "value": 3
+    },
+    {
+      "trait_type": "cute",
+      "value": 5
+    },
+    {
+      "trait_type": "secret",
+      "value": "dfglphhmdseghhygtbfdy656"
+    }
+  ],
+  "description": "cute piggy chomp",
+  "image": "https://gateway.pinata.cloud/ipfs/Qme4XxQgGnvYWnehmBtLYscz7psaFNrReYNgEjZ44u11fL",
+  "name": "piggy-chomp"
+}
